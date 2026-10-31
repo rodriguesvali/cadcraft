@@ -10,3 +10,5 @@
 /apps/cadcraft-web/dist/
 /.claude/worktrees/
 graphify-out/
+.devcontainer/
+
